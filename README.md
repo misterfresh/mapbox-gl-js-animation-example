@@ -6,3 +6,5 @@ The live demo is here :
 ## To start / stop
 
 Simply press the button in the top-left corner to start/stop the animation.
+
+The number of vehicles starts relatively small but increases gradually over time to reach several hundreds.
